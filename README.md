@@ -34,9 +34,7 @@
   
  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Vermasneha&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Vermasneha
 /
-README.md
-/Vermasneha
-/
+
 
 
   
